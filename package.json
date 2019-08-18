@@ -1,6 +1,6 @@
 {
-  "name": "react-native-google-drive-api-wrapper",
-  "version": "1.2.0",
+  "name": "react-native-gdrive-api-wrapper",
+  "version": "1.0.1",
   "description": "This wrapper facilitates the use of the google drive api.",
   "main": "GDrive.js",
   "scripts": {
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RobinBobin/react-native-google-drive-api-wrapper.git"
+    "url": "git+https://github.com/Alale66/react-native-google-drive-api-wrapper.git"
   },
   "keywords": [
     "google drive api"
   ],
-  "author": "Ruben Shalimov <r_shalimov@inbox.ru>",
+  "author": "Elahe Sadeghi <alale_66@yahoo.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RobinBobin/react-native-google-drive-api-wrapper/issues"
+    "url": "https://github.com/Alale66/react-native-google-drive-api-wrapper.git"
   },
-  "homepage": "https://github.com/RobinBobin/react-native-google-drive-api-wrapper#readme"
+  "homepage": "https://github.com/Alale66/react-native-google-drive-api-wrapper.git#readme"
 }
